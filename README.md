@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div style ="display: inline-block">
+<div style="background:white">
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
- 
+ </div>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" />
  
 </div>
