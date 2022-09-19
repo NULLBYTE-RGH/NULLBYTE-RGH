@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
+<p style  = "display:flex" align="center justify-content-center"> 
  <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
 </p>
  
