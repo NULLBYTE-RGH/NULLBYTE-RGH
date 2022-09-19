@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
- <H3> ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)" </H3>
+ <H3> ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH) </H3>
 </p>
  
 <p align="center">
