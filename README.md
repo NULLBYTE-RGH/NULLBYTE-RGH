@@ -21,4 +21,4 @@ Stats
 
 ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&hide=html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
