@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div tyle = "width:200px!">
+<div style = "width:200px!">
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
 </div>
 <p style  = "display:flex; justify-content:center" align="center"> 
