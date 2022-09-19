@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 Stats
 
 ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
