@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)
+
+![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&hide=html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true) ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&hide=html&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
