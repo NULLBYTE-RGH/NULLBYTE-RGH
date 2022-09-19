@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <a>![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH) </a> </p>
+<p align="center"> <a> ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH) </a> </p>
  
 <p align="center">
  
