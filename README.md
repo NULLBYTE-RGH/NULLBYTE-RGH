@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div tyle = "display:block;content:30px">
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
-
+</div>
 <p style  = "display:flex; justify-content:center" align="center"> 
  
  <img src="https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true">
