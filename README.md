@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true)
 Stats
+
+![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)
