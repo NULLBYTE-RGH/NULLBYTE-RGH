@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div style ="display: inline-block">
-<div style="background-color: coral">
+<div>
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
  </div>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/3m.svg" />
  
 </div>
 <p style  = "display:flex; justify-content:center" align="center"> 
