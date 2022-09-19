@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <a href="![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)"> </a> </p>
+<p align="center"> 
+ <H3> ![](https://komarev.com/ghpvc/?username=NULLBYTE-RGH)" </H3>
+</p>
  
 <p align="center">
  
- <a href="![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true)"></a>
- <a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&hide=html&langs_count=7&bg_color=000000&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
- </a>
+ <H1> ![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true)"</H1>>
+ <H2>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&hide=html&langs_count=7&bg_color=000000&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</H2>
  
 </p>
 
