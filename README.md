@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 
 
  <div align="center">
- <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" >
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" >
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" >
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" >
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" >
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" >
-  </picture>
+
+ <img height="40" width="40" fill="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" />
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" />
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
 </div>
 
 <p align="center"> 
