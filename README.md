@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
  </div>
  
-- ![#c5f015] <div align="center">
+ - ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
+ 
+<div align="center">
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
