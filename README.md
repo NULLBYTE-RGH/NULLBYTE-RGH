@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
  </div>
 
 
- <div align="center">
+ <div align="end">
 
  <img height="40" width="40" fill="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
