@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  </div>
 
 
- <div align="end">
+ <div align="start">
 
  <img height="40" width="40" fill="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
