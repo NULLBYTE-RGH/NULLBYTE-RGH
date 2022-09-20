@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 <div>
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
  </div>
-```diff
 
-+ <div align="center">
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+ <div align="center">
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
@@ -29,7 +35,6 @@ Here are some ideas to get you started:
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
 </div>
-```
 <p align="center"> 
  
  <img src="https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true">
