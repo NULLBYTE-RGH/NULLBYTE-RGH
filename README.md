@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
  </div>
  
-<div style = "color: red" align="center">
+<div style = "background-color: #C25100" align="center">
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
