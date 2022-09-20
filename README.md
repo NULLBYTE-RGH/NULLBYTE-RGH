@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center" > 
  
- ```diff + Stats              |  + Langs ```
+ ```diff + Stats              |  ```diff + Langs ```
 :-------------------------:|:-------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&hide=html&langs_count=7&bg_color=000000&hide_border=true&layout=compact)
  
