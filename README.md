@@ -1,4 +1,4 @@
-<p align="center" sytle="font-size:200%"> 
+<p align="center"> 
 Hi there 👋
 </p>
 
