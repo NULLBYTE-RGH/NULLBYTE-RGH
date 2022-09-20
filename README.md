@@ -1,6 +1,6 @@
-<p align="center" height="60" width="60"> 
+<a align="center" height="60" width="60"> 
 Hi there 👋 :sunglasses:
-</p>
+</a>
 
 <!--
 **NULLBYTE-RGH/NULLBYTE-RGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
