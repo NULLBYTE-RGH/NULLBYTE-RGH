@@ -1,4 +1,4 @@
-<p align="center" style="color:rgb(107,79,187); font-size:.85em"> 
+# <p align="center" style="color:rgb(107,79,187); font-size:.85em"> 
 Hi there 👋 :sunglasses:
 </p>
 
