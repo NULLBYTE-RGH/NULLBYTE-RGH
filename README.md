@@ -20,15 +20,15 @@ Here are some ideas to get you started:
  </div>
 
 
- <div style="background-color: #FFFFFF" align="center">
+ <div align="center">
 
- <img height="40" width="40" fill="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
- <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
- <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
- <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" />
- <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
- <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" />
- <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
+ <svg height="40" width="40" fill="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
+ <svg height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
+ <svg height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
+ <svg height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" />
+ <svg height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
+ <svg height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" />
+ <svg height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
 </div>
 
 <p align="center"> 
