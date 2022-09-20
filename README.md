@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center" height="48" width="48"> 
 Hi there 👋 :sunglasses:
 </p>
 
