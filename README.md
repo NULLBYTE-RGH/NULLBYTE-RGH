@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  <div align="center">
 
- <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" > </svg>
  <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
  <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
  <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" />
