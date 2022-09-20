@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style ="display: inline; text-align: center">
 <div>
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
  </div>
+ <div style="display:flex; justify-content:center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
