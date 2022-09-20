@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 <div>
 <img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH">
  </div>
- <div style="display:flex; justify-content:center">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
+ 
+<div style="display:flex; justify-content:center" align="center">
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
- 
 </div>
+
 <p style  = "display:flex; justify-content:center" align="center"> 
  
  <img src="https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true">
