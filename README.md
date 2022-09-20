@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
  <div align="center">
 
- <svg height="40" width="40" fill="red" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
- <svg height="40" width="40" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
- <svg height="40" width="40" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
- <svg height="40" width="40" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" />
- <svg height="40" width="40" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
- <svg height="40" width="40" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" />
- <svg height="40" width="40" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotenv.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jetbrains.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/torproject.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/micropython.svg" />
+ <svg  xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" />
 </div>
 
 <p align="center"> 
