@@ -10,7 +10,7 @@ Hey there 👋<br><br>Atualmente Iniciando C++ e .Net<br><br>Projetos em C, Java
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NULLBYTE-RGH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&theme=dark&hide_border=false&include_all_commits=er=true&layout=compacttrue&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compacter=true&layout=compacttrue&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NULLBYTE-RGH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
