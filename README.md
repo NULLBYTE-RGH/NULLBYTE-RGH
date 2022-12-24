@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hey there 👋<br><br>Atualmente Iniciando C++ e .Net<br><br>Projetos em C, Java, Javascript, python, C#, Matlab, Octave, Assembly, SQL.<br><br>FrameWorks : Angular, React, React Native, .Net.
 
+<div align="center"><img src="https://komarev.com/ghpvc/?username=NULLBYTE-RGH"> </div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/chuck#1192.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-sarti-1b259b164) 
