@@ -23,6 +23,4 @@ Hey there 👋<br><br>Atualmente Iniciando C++ e .Net<br><br>Projetos em C, Java
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NULLBYTE-RGH&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
